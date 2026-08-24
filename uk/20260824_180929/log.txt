@@ -1,0 +1,889 @@
+2026-08-24 18:10:05,700 - INFO - Scraping data from glide.page
+2026-08-24 18:10:06,142 - INFO - Playwright stealth browser initialized successfully
+2026-08-24 18:10:06,311 - INFO - ==================
+Processing page {'name': 'Planetary Boundaries Fresco', 'url': 'https://1erdegre.glide.page/dl/3b1bc8', 'type': 'scraper', 'filter': 'Fresque des frontières planétaires', 'id': 500}
+2026-08-24 18:10:34,722 - INFO - Found 8 elements on current page
+2026-08-24 18:10:40,275 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/xMuwcPqURv-RpUtWHuU1SA
+2026-08-24 18:10:50,548 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/mQXLCzEaQSugquzwdf3q8A
+2026-08-24 18:11:00,977 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dOUeARV8Qo-tGLO5XcnVJA
+2026-08-24 18:11:11,400 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/IDEnJQ3kQ.-RFs3jNzypkg
+2026-08-24 18:11:21,596 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/hRwOSGVuRsCt-DfuRBQTjA
+2026-08-24 18:11:31,816 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/FyMYrZPUQXam.sSSw4ysxg
+2026-08-24 18:11:42,025 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/tPz3TqmETbiCDR.zwUz2Qg
+2026-08-24 18:11:52,339 - INFO - Collected link: https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/TiQ1X7vPTo6kwazBRcp8cQ
+2026-08-24 18:11:59,367 - INFO - Total links collected: 8
+2026-08-24 18:11:59,368 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/xMuwcPqURv-RpUtWHuU1SA ...
+2026-08-24 18:12:07,939 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/xMuwcPqURv-RpUtWHuU1SA
+{
+    "id": "500-xMuwcPqURv-RpUtWHuU1SA",
+    "workshop_type": 500,
+    "title": "Fresque des Fronti\u00e8res Plan\u00e9taires",
+    "start_date": "2026-08-30T14:00:00+02:00",
+    "end_date": "2026-08-30T17:30:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/xMuwcPqURv-RpUtWHuU1SA",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/xMuwcPqURv-RpUtWHuU1SA",
+    "description": "Quelles fronti\u00e8res sont d\u00e9j\u00e0 franchies ?\n",
+    "scrape_date": "2026-08-24T20:12:07.929645+02:00"
+}
+2026-08-24 18:12:07,940 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/mQXLCzEaQSugquzwdf3q8A ...
+2026-08-24 18:12:15,935 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/mQXLCzEaQSugquzwdf3q8A
+{
+    "id": "500-mQXLCzEaQSugquzwdf3q8A",
+    "workshop_type": 500,
+    "title": "Online Planetary Boundaries Fresco workshop | English | with Monika & Monika :-) ",
+    "start_date": "2026-09-13T09:00:00+02:00",
+    "end_date": "2026-09-13T12:30:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/mQXLCzEaQSugquzwdf3q8A",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/mQXLCzEaQSugquzwdf3q8A",
+    "description": "Do you know the boundaries of the planet we call home?\nToday, seven of the nine planetary boundaries have been crossed, putting increasing pressure on Earth\u2019s life-support systems. To secure a safe and just future for all, we must understand how human activities interact with the Earth system --and act decisively to reduce pressures on our planet and its ecosystems.\nThe Planetary Boundaries Fresco is a 3-hour collaborative, science-based workshop that brings the planetary boundaries framework to life through guided discussions and an interactive card game. Together, you'll explore the processes that regulate Earth\u2019s stability, uncover how human pressures drive changes across the planet, and identify leverage points for action.\nThe workshop will take place on Thursday, Sunday 13, from 09h00 - 12h00 CEST (Berlin Time)\n",
+    "scrape_date": "2026-08-24T20:12:15.935672+02:00"
+}
+2026-08-24 18:12:15,936 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dOUeARV8Qo-tGLO5XcnVJA ...
+2026-08-24 18:12:24,161 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dOUeARV8Qo-tGLO5XcnVJA
+{
+    "id": "500-dOUeARV8Qo-tGLO5XcnVJA",
+    "workshop_type": 500,
+    "title": "Online Planetary Boundaries Fresco workshop | English | with Joy & Elise",
+    "start_date": "2026-09-17T09:30:00+02:00",
+    "end_date": "2026-09-17T13:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dOUeARV8Qo-tGLO5XcnVJA",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/dOUeARV8Qo-tGLO5XcnVJA",
+    "description": "Do you know the boundaries of the planet we call home?\nToday, seven of the nine planetary boundaries have been crossed, putting increasing pressure on Earth\u2019s life-support systems. To secure a safe and just future for all, we must understand how human activities interact with the Earth system --and act decisively to reduce pressures on our planet and its ecosystems.\nThe Planetary Boundaries Fresco is a 3.5-hour collaborative, science-based workshop that brings the planetary boundaries framework to life through guided discussions and an interactive card game. Together, you'll explore the processes that regulate Earth\u2019s stability, uncover how human pressures drive changes across the planet, and identify leverage points for action.\nThe workshop will take place on Thursday, September 17, from 19h30 - 13h00 CEST (Amsterdam Time)\n",
+    "scrape_date": "2026-08-24T20:12:24.161321+02:00"
+}
+2026-08-24 18:12:24,162 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/IDEnJQ3kQ.-RFs3jNzypkg ...
+2026-08-24 18:12:31,490 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/IDEnJQ3kQ.-RFs3jNzypkg
+{
+    "id": "500-IDEnJQ3kQ.-RFs3jNzypkg",
+    "workshop_type": 500,
+    "title": "Atelier fresque des Fronti\u00e8res plan\u00e9taires ACADEMIE DU CLIMAT PARIS",
+    "start_date": "2026-09-18T18:30:00+02:00",
+    "end_date": "2026-09-18T21:30:00+02:00",
+    "full_location": "2 Place Baudoyer 75004 PARIS (salle 1.09)\n",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/IDEnJQ3kQ.-RFs3jNzypkg",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/IDEnJQ3kQ.-RFs3jNzypkg",
+    "description": "La fresque des fronti\u00e8res plan\u00e9taires, c\u2019est la Fresque la plus compl\u00e8te sur les enjeux environnementaux.\n\ud83c\udf0f Une mission ambitieuse : former tous les publics aux ph\u00e9nom\u00e8nes qui r\u00e9gissent la stabilit\u00e9 de notre syst\u00e8me Terre : les 9 fronti\u00e8res plan\u00e9taires !\n\ud83d\udd2c Une rigueur scientifique : l\u2019atelier se base sur les derni\u00e8res \u00e9tudes issues d\u2019organismes rigoureux et reconnus.\n\ud83e\udd1d Un format ludique et collaboratif : Un atelier de 3h pour comprendre l\u2019ensemble des sujets environnementaux.\nTout repose sur l\u2019intelligence collective et sur la participation du groupe dans la bienveillance.\nAllez viens, avan\u00e7ons ensemble, il est temps d\u2019agir ! H\u00e2te de l\u2019animer et de poursuivre l\u2019aventure tous et toutes ensemble !\nAccueil des participant-es \u00e0 partir de 18h15. D\u00e9but de l\u2019atelier 18h30 Contact si besoin 0750411719 Philippe\n",
+    "scrape_date": "2026-08-24T20:12:31.490095+02:00"
+}
+2026-08-24 18:12:31,491 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/hRwOSGVuRsCt-DfuRBQTjA ...
+2026-08-24 18:12:40,996 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/hRwOSGVuRsCt-DfuRBQTjA
+{
+    "id": "500-hRwOSGVuRsCt-DfuRBQTjA",
+    "workshop_type": 500,
+    "title": "Fresque des Fronti\u00e8res Plan\u00e9taires en ligne",
+    "start_date": "2026-09-23T14:00:00+02:00",
+    "end_date": "2026-09-23T17:30:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/hRwOSGVuRsCt-DfuRBQTjA",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/hRwOSGVuRsCt-DfuRBQTjA",
+    "description": "7 sur 9...\n",
+    "scrape_date": "2026-08-24T20:12:40.995800+02:00"
+}
+2026-08-24 18:12:40,997 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/FyMYrZPUQXam.sSSw4ysxg ...
+2026-08-24 18:12:49,058 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/FyMYrZPUQXam.sSSw4ysxg
+{
+    "id": "500-FyMYrZPUQXam.sSSw4ysxg",
+    "workshop_type": 500,
+    "title": "Atelier Fresque des Fronti\u00e8res Plan\u00e9taires avec Tom Duclos",
+    "start_date": "2026-09-30T15:00:00+02:00",
+    "end_date": "2026-09-30T18:00:00+02:00",
+    "full_location": "\"So Watt ! Tiers-Lieu\", 35-37 av. du Mar\u00e9chal de Lattre de Tassigny, 59350, Saint-Andr\u00e9-Lez-Lille\n",
+    "location_name": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+    "address": "Avenue du Mar\u00e9chal de Lattre de Tassigny",
+    "city": "Saint-Andr\u00e9-lez-Lille",
+    "department": "59",
+    "zip_code": "59350",
+    "country_code": "fr",
+    "latitude": "50.6673657",
+    "longitude": "3.0274387",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/FyMYrZPUQXam.sSSw4ysxg",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/FyMYrZPUQXam.sSSw4ysxg",
+    "description": "Venez d\u00e9couvrir les 9 fronti\u00e8res plan\u00e9taires, et r\u00e9fl\u00e9chir aux solutions pour rester \"\u00e0 l'int\u00e9rieur\" de celles-cis\n",
+    "scrape_date": "2026-08-24T20:12:49.058737+02:00"
+}
+2026-08-24 18:12:49,060 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/tPz3TqmETbiCDR.zwUz2Qg ...
+2026-08-24 18:12:56,599 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/tPz3TqmETbiCDR.zwUz2Qg
+{
+    "id": "500-tPz3TqmETbiCDR.zwUz2Qg",
+    "workshop_type": 500,
+    "title": "Online Planetary Boundaries Fresco workshop | English | with Elise & Joy",
+    "start_date": "2026-10-15T13:30:00+02:00",
+    "end_date": "2026-10-15T17:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/tPz3TqmETbiCDR.zwUz2Qg",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/tPz3TqmETbiCDR.zwUz2Qg",
+    "description": "Do you know the boundaries of the planet we call home?\nToday, seven of the nine planetary boundaries have been crossed, putting increasing pressure on Earth\u2019s life-support systems. To secure a safe and just future for all, we must understand how human activities interact with the Earth system --and act decisively to reduce pressures on our planet and its ecosystems.\nThe Planetary Boundaries Fresco is a 3.5-hour collaborative, science-based workshop that brings the planetary boundaries framework to life through guided discussions and an interactive card game. Together, you'll explore the processes that regulate Earth\u2019s stability, uncover how human pressures drive changes across the planet, and identify leverage points for action.\nThe workshop will take place on Thursday, October 15, from 13h30 - 17h00 CEST (Amsterdam Time)\n",
+    "scrape_date": "2026-08-24T20:12:56.599594+02:00"
+}
+2026-08-24 18:12:56,600 - INFO - 
+-> Processing https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/TiQ1X7vPTo6kwazBRcp8cQ ...
+2026-08-24 18:13:03,908 - INFO - Successfully scraped https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/TiQ1X7vPTo6kwazBRcp8cQ
+{
+    "id": "500-TiQ1X7vPTo6kwazBRcp8cQ",
+    "workshop_type": 500,
+    "title": "Atelier fresque des Fronti\u00e8res plan\u00e9taires ACADEMIE DU CLIMAT PARIS",
+    "start_date": "2026-10-16T18:30:00+02:00",
+    "end_date": "2026-10-16T21:30:00+02:00",
+    "full_location": "2 Place Baudoyer 75004 PARIS (salle 1.09)\n",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/TiQ1X7vPTo6kwazBRcp8cQ",
+    "tickets_link": "https://1erdegre.glide.page/dl/3b1bc8/s/df85fa/r/TiQ1X7vPTo6kwazBRcp8cQ",
+    "description": "La fresque des fronti\u00e8res plan\u00e9taires, c\u2019est la Fresque la plus compl\u00e8te sur les enjeux environnementaux.\n\ud83c\udf0f Une mission ambitieuse : former tous les publics aux ph\u00e9nom\u00e8nes qui r\u00e9gissent la stabilit\u00e9 de notre syst\u00e8me Terre : les 9 fronti\u00e8res plan\u00e9taires !\n\ud83d\udd2c Une rigueur scientifique : l\u2019atelier se base sur les derni\u00e8res \u00e9tudes issues d\u2019organismes rigoureux et reconnus.\n\ud83e\udd1d Un format ludique et collaboratif : Un atelier de 3h pour comprendre l\u2019ensemble des sujets environnementaux.\nTout repose sur l\u2019intelligence collective et sur la participation du groupe dans la bienveillance.\nAllez viens, avan\u00e7ons ensemble, il est temps d\u2019agir ! H\u00e2te de l\u2019animer et de poursuivre l\u2019aventure tous et toutes ensemble !\nAccueil des participant-es \u00e0 partir de 18h15. D\u00e9but de l\u2019atelier 18h30 Contact si besoin 0750411719 Philippe\n",
+    "scrape_date": "2026-08-24T20:13:03.908458+02:00"
+}
+2026-08-24 18:13:04,006 - INFO - Browser closed successfully
+2026-08-24 18:13:04,028 - INFO - Saved 632 geocode cache entries to .geocode_cache.json
+2026-08-24 18:13:04,840 - INFO - Scraping data from www.billetweb.fr
+2026-08-24 18:13:08,543 - INFO - ==================
+Processing page {'name': 'Digital Collage', 'url': 'https://www.billetweb.fr/multi_event.php?multi=11442', 'type': 'scraper', 'iframe': 'eventu84999', 'id': 3}
+2026-08-24 18:13:19,467 - INFO - Rejecting record: iframe not found
+2026-08-24 18:13:19,467 - INFO - ==================
+Processing page {'name': 'Digital Collage', 'url': 'https://www.billetweb.fr/pro/atelier-fresque-du-numerique', 'type': 'scraper', 'iframe': 'event41180', 'id': 3}
+2026-08-24 18:13:21,365 - INFO - ------------------
+Processing event https://www.billetweb.fr/atelier-fresque-du-numerique-en-ligne?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-08-24 18:13:25,410 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=909232&margin=no_margin&color=006056&ref=atelier-fresque-du-numerique-en-ligne&cross_shop=41180&step=1&session=12652083 ...
+2026-08-24 18:13:25,760 - INFO - Successfully scraped:
+{
+    "id": "3-atelier-fresque-du-numerique-en-ligne?multi=41180-12652083",
+    "workshop_type": 3,
+    "title": "EN LIGNE - ATELIER FRESQUE DU NUM\u00c9RIQUE - EN LIGNE, avec Lo\u00efc Jeangeorges",
+    "start_date": "2026-08-29T14:00:00+02:00",
+    "end_date": "2026-08-29T17:30:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/atelier-fresque-du-numerique-en-ligne?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=909232&margin=no_margin&color=006056&ref=atelier-fresque-du-numerique-en-ligne&cross_shop=41180&step=1&session=12652083",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les billets non modifiables et remboursables jusqu'\u00e0 7 jours avant l'atelier.\n  Cette session aura lieu en ligne en utilisant un outil de visioconf\u00e9rence et un outil de collaboration visuelle. Les infos techniques seront envoy\u00e9es par email aux participant\u00b7e\u00b7s inscrit\u00b7e\u00b7s quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7e\u00b7s ne seront pas accept\u00e9s s'ils ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:25.729832+02:00"
+}
+2026-08-24 18:13:25,761 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=909232&margin=no_margin&color=006056&ref=atelier-fresque-du-numerique-en-ligne&cross_shop=41180&step=1&session=12652084 ...
+2026-08-24 18:13:25,766 - INFO - Successfully scraped:
+{
+    "id": "3-atelier-fresque-du-numerique-en-ligne?multi=41180-12652084",
+    "workshop_type": 3,
+    "title": "EN LIGNE - ATELIER FRESQUE DU NUM\u00c9RIQUE - EN LIGNE, avec Lo\u00efc Jeangeorges",
+    "start_date": "2026-09-06T14:00:00+02:00",
+    "end_date": "2026-09-06T17:30:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/atelier-fresque-du-numerique-en-ligne?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=909232&margin=no_margin&color=006056&ref=atelier-fresque-du-numerique-en-ligne&cross_shop=41180&step=1&session=12652084",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les billets non modifiables et remboursables jusqu'\u00e0 7 jours avant l'atelier.\n  Cette session aura lieu en ligne en utilisant un outil de visioconf\u00e9rence et un outil de collaboration visuelle. Les infos techniques seront envoy\u00e9es par email aux participant\u00b7e\u00b7s inscrit\u00b7e\u00b7s quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7e\u00b7s ne seront pas accept\u00e9s s'ils ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:25.766595+02:00"
+}
+2026-08-24 18:13:25,767 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-08-24 18:13:32,972 - INFO - 
+-> Processing session 1/5 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12563598 ...
+2026-08-24 18:13:32,978 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12563598",
+    "workshop_type": 3,
+    "title": "PARIS 04, Atelier avec Nathalie Simonnet",
+    "start_date": "2026-09-10T18:00:00+02:00",
+    "end_date": "2026-09-10T21:00:00+02:00",
+    "full_location": "L'Academie du Climat, 2 place Baudoyer 75004 PARIS",
+    "location_name": "Acad\u00e9mie du Climat",
+    "address": "2 Place Baudoyer",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75004",
+    "country_code": "fr",
+    "latitude": "48.8561484",
+    "longitude": "2.3557819",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12563598",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:32.978136+02:00"
+}
+2026-08-24 18:13:32,979 - INFO - 
+-> Processing session 2/5 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12667132 ...
+2026-08-24 18:13:32,984 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12667132",
+    "workshop_type": 3,
+    "title": "PARIS 18, Atelier avec Camille Le Guilloux",
+    "start_date": "2026-09-15T18:30:00+02:00",
+    "end_date": "2026-09-15T21:30:00+02:00",
+    "full_location": "La REcyclerie, 83 Bd Ornano, 75018 Paris, France",
+    "location_name": "La Recyclerie",
+    "address": "83 Boulevard Ornano",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75018",
+    "country_code": "fr",
+    "latitude": "48.8976218",
+    "longitude": "2.3440598",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12667132",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:32.983954+02:00"
+}
+2026-08-24 18:13:32,984 - INFO - 
+-> Processing session 3/5 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12409882 ...
+2026-08-24 18:13:32,989 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12409882",
+    "workshop_type": 3,
+    "title": "PARIS 12, Atelier avec Agathe Gajac",
+    "start_date": "2026-09-26T10:15:00+02:00",
+    "end_date": "2026-09-26T13:15:00+02:00",
+    "full_location": "La Maison du Z\u00e9ro D\u00e9chet \u2013 1 passage Emma Calv\u00e9, 75012 Paris",
+    "location_name": "La Maison du Z\u00e9ro D\u00e9chet",
+    "address": "1 Passage Emma Calv\u00e9",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8485602",
+    "longitude": "2.3856496",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12409882",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:32.989095+02:00"
+}
+2026-08-24 18:13:32,989 - INFO - 
+-> Processing session 4/5 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12667739 ...
+2026-08-24 18:13:32,995 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12667739",
+    "workshop_type": 3,
+    "title": "PARIS 18, Atelier avec Camille Le Guilloux",
+    "start_date": "2026-10-27T18:30:00+01:00",
+    "end_date": "2026-10-27T21:30:00+01:00",
+    "full_location": "La REcyclerie, 83 Bd Ornano, 75018 Paris, France",
+    "location_name": "La Recyclerie",
+    "address": "83 Boulevard Ornano",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75018",
+    "country_code": "fr",
+    "latitude": "48.8976218",
+    "longitude": "2.3440598",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12667739",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:32.994926+02:00"
+}
+2026-08-24 18:13:32,995 - INFO - 
+-> Processing session 5/5 https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12409883 ...
+2026-08-24 18:13:33,000 - INFO - Successfully scraped:
+{
+    "id": "3-paris-75-atelier-fresque-du-numerique?multi=41180-12409883",
+    "workshop_type": 3,
+    "title": "PARIS 12, Atelier avec Agathe Gajac",
+    "start_date": "2026-11-28T10:15:00+01:00",
+    "end_date": "2026-11-28T13:15:00+01:00",
+    "full_location": "La Maison du Z\u00e9ro D\u00e9chet \u2013 1 passage Emma Calv\u00e9, 75012 Paris",
+    "location_name": "La Maison du Z\u00e9ro D\u00e9chet",
+    "address": "1 Passage Emma Calv\u00e9",
+    "city": "Paris",
+    "department": "75",
+    "zip_code": "75012",
+    "country_code": "fr",
+    "latitude": "48.8485602",
+    "longitude": "2.3856496",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/paris-75-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=888190&margin=no_margin&color=006056&ref=paris-75-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12409883",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:32.999849+02:00"
+}
+2026-08-24 18:13:33,000 - INFO - ------------------
+Processing event https://www.billetweb.fr/nord-59-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-08-24 18:13:37,536 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=904873&margin=no_margin&color=006056&ref=nord-59-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11999009 ...
+2026-08-24 18:13:37,544 - INFO - Successfully scraped:
+{
+    "id": "3-nord-59-atelier-fresque-du-numerique?multi=41180-11999009",
+    "workshop_type": 3,
+    "title": "NORD - LEZENNES- ATELIER Pauline DAUDE",
+    "start_date": "2026-10-05T12:00:00+02:00",
+    "end_date": "2026-10-05T15:00:00+02:00",
+    "full_location": "Synergie Park, 6 Rue Louis N\u00e9el, 59260 Lezennes",
+    "location_name": "",
+    "address": "6 Rue Louis N\u00e9el",
+    "city": "Lezennes",
+    "department": "59",
+    "zip_code": "59260",
+    "country_code": "fr",
+    "latitude": "50.6021864",
+    "longitude": "3.1355487",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/nord-59-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904873&margin=no_margin&color=006056&ref=nord-59-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11999009",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n ",
+    "scrape_date": "2026-08-24T20:13:37.544390+02:00"
+}
+2026-08-24 18:13:37,545 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=904873&margin=no_margin&color=006056&ref=nord-59-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12679869 ...
+2026-08-24 18:13:37,546 - ERROR - get_address: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l).
+2026-08-24 18:13:37,546 - INFO - Rejecting record: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l)..
+2026-08-24 18:13:37,546 - INFO - ------------------
+Processing event https://www.billetweb.fr/en-ligne-formation-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-08-24 18:13:40,713 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=909349&margin=no_margin&color=006056&ref=en-ligne-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12558996 ...
+2026-08-24 18:13:40,721 - INFO - Successfully scraped:
+{
+    "id": "3-en-ligne-formation-fresque-du-numerique?multi=41180-12558996",
+    "workshop_type": 3,
+    "title": "EN LIGNE - FORMATION \u00c0 L'ANIMATION - EN LIGNE - Formation avec Tom Duclos",
+    "start_date": "2026-10-07T18:00:00+02:00",
+    "end_date": "2026-10-07T21:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": true,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/en-ligne-formation-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=909349&margin=no_margin&color=006056&ref=en-ligne-formation-fresque-du-numerique&cross_shop=41180&step=1&session=12558996",
+    "description": "Cette formation \u00e0 l'animation est r\u00e9serv\u00e9e aux particuliers :\n- souhaitant animer principalement dans un contexte b\u00e9n\u00e9vole citoyen ou scolaire,  \n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Num\u00e9rique depuis moins de 6 mois\n- ayant d\u00e9j\u00e0 particip\u00e9 \u00e0 un atelier Fresque du Climat\n  Cette formation citoyenne est destin\u00e9e aux particuliers. Pour les professionnel\u00b7le\u00b7s, vous pouvez vous orienter soit vers une formation pro inter-entreprises pour 1 ou quelques salari\u00e9\u00b7es, soit vers une formation pro intra-entreprises sous forme de prestation commerciale d\u00e9di\u00e9e, \u00e0 partir de 5 salari\u00e9\u00b7e\u00b7s. \n  La formations \u00e0 l'animation de la Fresque du Num\u00e9rique vous permet d'animer des ateliers dans des cadres non-commerciaux via la licence Creative Commons BY-NC-ND. Pour pouvoir animer dans un cadre pro des pr\u00e9requis suppl\u00e9mentaires sont n\u00e9cessaires et un contrat d\u2019agr\u00e9ment doit \u00eatre sign\u00e9 avec l\u2019association. Vous trouverez plus d'infos sur la licence sur le site de l'asso et nous y reviendrons aussi en fin de formation.\n  Le but de cette formation est de vous faire devenir animateur\u00b7rice de la Fresque du Num\u00e9rique, pour que vous puissiez ensuite animer des ateliers. Le but ici n\u2019est pas de faire de vous un\u00b7e expert\u00b7e de l'empreinte environnementale du num\u00e9rique. Si vous souhaitez approfondir vos connaissances sur le fond du sujet, nous vous recommandons plut\u00f4t vivement de suivre le MOOC de l'INRIA \"Impacts environnementaux du num\u00e9rique\".\n  Cette session aura lieu en ligne en utilisant un outil de visioconf\u00e9rence et un outil de collaboration visuelle. Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7e\u00b7s inscrits quelques jours avant la formation. Par respect des autres et du timing, les participant\u00b7e\u00b7s ne seront pas accept\u00e9s s'ils ont plus de 10 minutes de retard.\n  Une fois inscrit, votre nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.\n  Votre billet n'est pas modifiable et il est remboursable seulement jusqu'\u00e0 7 jours avant la formation, on vous remercie de vous inscrire seulement si vous \u00eates s\u00fbr\u00b7e de pouvoir participer afin de ne pas bloquer de place pour d'autres.",
+    "scrape_date": "2026-08-24T20:13:40.721423+02:00"
+}
+2026-08-24 18:13:40,722 - INFO - ------------------
+Processing event https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-08-24 18:13:45,985 - INFO - 
+-> Processing session 1/3 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954534 ...
+2026-08-24 18:13:45,994 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique?multi=41180-11954534",
+    "workshop_type": 3,
+    "title": "BALMA Atelier",
+    "start_date": "2026-10-07T19:00:00+02:00",
+    "end_date": "2026-10-07T22:00:00+02:00",
+    "full_location": "Maison de l'environnement - BALMA",
+    "location_name": "Maison de l'environnement",
+    "address": "Avenue des Mourlingues",
+    "city": "Balma",
+    "department": "31",
+    "zip_code": "31130",
+    "country_code": "fr",
+    "latitude": "43.6029483",
+    "longitude": "1.5074662",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954534",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:45.993953+02:00"
+}
+2026-08-24 18:13:45,995 - INFO - 
+-> Processing session 2/3 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954524 ...
+2026-08-24 18:13:46,000 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique?multi=41180-11954524",
+    "workshop_type": 3,
+    "title": "TOULOUSE Atelier",
+    "start_date": "2026-11-10T19:00:00+01:00",
+    "end_date": "2026-11-10T22:00:00+01:00",
+    "full_location": "Les Halles de la Transition, Rue du Canon d'Arcole, Toulouse, France",
+    "location_name": "Les Halles De La Transition",
+    "address": "7 Rue du Canon d'Arcole",
+    "city": "Toulouse",
+    "department": "31",
+    "zip_code": "31000",
+    "country_code": "fr",
+    "latitude": "43.6137551",
+    "longitude": "1.4351445",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954524",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:45.999756+02:00"
+}
+2026-08-24 18:13:46,000 - INFO - 
+-> Processing session 3/3 https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954530 ...
+2026-08-24 18:13:46,005 - INFO - Successfully scraped:
+{
+    "id": "3-haute-garonne-31-atelier-fresque-du-numerique?multi=41180-11954530",
+    "workshop_type": 3,
+    "title": "TOULOUSE Atelier",
+    "start_date": "2026-12-12T10:00:00+01:00",
+    "end_date": "2026-12-12T13:00:00+01:00",
+    "full_location": "L'Archipel - Tiers Lieu Educatif, Rue de l'Ari\u00e8ge, Tournefeuille, France",
+    "location_name": "Rue de l'Ari\u00e8ge",
+    "address": "Rue de l'Ari\u00e8ge",
+    "city": "Tournefeuille",
+    "department": "31",
+    "zip_code": "31170",
+    "country_code": "fr",
+    "latitude": "43.5888786",
+    "longitude": "1.3379438",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/haute-garonne-31-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904813&margin=no_margin&color=006056&ref=haute-garonne-31-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=11954530",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir du 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n    Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:46.004985+02:00"
+}
+2026-08-24 18:13:46,005 - INFO - ------------------
+Processing event https://www.billetweb.fr/rhone-69-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-08-24 18:13:48,786 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=904918&margin=no_margin&color=006056&ref=rhone-69-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12599847 ...
+2026-08-24 18:13:48,797 - INFO - Successfully scraped:
+{
+    "id": "3-rhone-69-atelier-fresque-du-numerique?multi=41180-12599847",
+    "workshop_type": 3,
+    "title": "Atelier Fresque du Num\u00e9rique \u00e0 Lyon avec Virgile Demolliens",
+    "start_date": "2026-10-27T18:30:00+01:00",
+    "end_date": "2026-10-27T22:00:00+01:00",
+    "full_location": "Tub\u00e0, 15 Boulevard Vivier-Merle, Lyon 69003",
+    "location_name": "Tub\u00e0",
+    "address": "15 Boulevard Vivier-Merle",
+    "city": "Lyon",
+    "department": "69",
+    "zip_code": "69003",
+    "country_code": "fr",
+    "latitude": "45.7623520",
+    "longitude": "4.8589181",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/rhone-69-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904918&margin=no_margin&color=006056&ref=rhone-69-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12599847",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:48.797225+02:00"
+}
+2026-08-24 18:13:48,798 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique
+2026-08-24 18:13:51,634 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12695070 ...
+2026-08-24 18:13:51,640 - INFO - Successfully scraped:
+{
+    "id": "3-loire-atlantique-44-atelier-fresque-du-numerique?multi=41180-12695070",
+    "workshop_type": 3,
+    "title": "Nantes - Atelier la Fresque du Num\u00e9rique",
+    "start_date": "2026-11-19T18:30:00+01:00",
+    "end_date": "2026-11-19T21:30:00+01:00",
+    "full_location": "Open Lande - Entreprises et territoires, Rue de l'\u00cele Mabon, Nantes, France",
+    "location_name": "Rue de l'\u00cele Mabon",
+    "address": "Rue de l'\u00cele Mabon",
+    "city": "Nantes",
+    "department": "44",
+    "zip_code": "44262",
+    "country_code": "fr",
+    "latitude": "47.2070177",
+    "longitude": "-1.5592533",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique?multi=41180&margin=no_margin&ref=41180&color=3DA9FC&parent=atelier-fresque-du-numerique",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=904831&margin=no_margin&color=006056&ref=loire-atlantique-44-atelier-fresque-du-numerique&cross_shop=41180&step=1&session=12695070",
+    "description": "La Fresque du Num\u00e9rique est un atelier ludique et collaboratif dont le but est de sensibiliser et former les participant\u00b7es aux enjeux environnementaux du num\u00e9rique. L'atelier vise aussi \u00e0 expliquer les grandes lignes des actions pour un num\u00e9rique plus durable, puis \u00e0 ouvrir des discussions entre les participant\u00b7es sur le sujet.\n  Cet atelier est destin\u00e9 aux particuliers \u00e0 partir de 15 ans. Si vous \u00eates pro, RDV sur notre page d\u00e9di\u00e9e aux entreprises.\n  Les infos d\u00e9taill\u00e9es seront envoy\u00e9es par email aux participant\u00b7es inscrit\u00b7es quelques jours avant l'atelier. Par respect des autres et du timing, les participant\u00b7es ne seront pas accept\u00e9\u00b7es s'iels ont plus de 10 minutes de retard.\nUne fois inscrit\u00b7e, vos nom, pr\u00e9nom et email seront transmis \u00e0 l'animateur\u00b7ice en charge de cette session, afin de vous envoyer un email de briefing avant la session et un autre email apr\u00e8s.",
+    "scrape_date": "2026-08-24T20:13:51.640008+02:00"
+}
+2026-08-24 18:13:51,641 - INFO - ==================
+Processing page {'name': 'Biodiversity Collage', 'url': 'https://www.billetweb.fr/multi_event.php?user=82762', 'type': 'scraper', 'iframe': 'event17309', 'id': 2}
+2026-08-24 18:13:52,908 - INFO - ------------------
+Processing event https://www.billetweb.fr/calvados-13?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:13:55,588 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=857147&margin=margin_small&color=no&ref=calvados-13&cross_shop=17309&step=1&session=12532104 ...
+2026-08-24 18:13:55,593 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:13:55,594 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-08-24 18:13:55,594 - INFO - ------------------
+Processing event https://www.billetweb.fr/corr-ze-191?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:13:58,461 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=1298387&margin=margin_small&color=no&ref=corr-ze-191&cross_shop=17309&step=1&session=12532110 ...
+2026-08-24 18:13:58,462 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:13:58,462 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-08-24 18:13:58,462 - INFO - ------------------
+Processing event https://www.billetweb.fr/fresque-de-la-biodiversite-en-ligne-2022?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:01,232 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=513845&margin=margin_small&color=no&ref=fresque-de-la-biodiversite-en-ligne-2022&cross_shop=17309&step=1&session=12514085 ...
+2026-08-24 18:14:01,240 - INFO - Successfully scraped:
+{
+    "id": "2-fresque-de-la-biodiversite-en-ligne-2022?multi=17309-12514085",
+    "workshop_type": 2,
+    "title": "EN LIGNE - Fresque de la Biodiversit\u00e9 (FR) - avec Delphine Valognes",
+    "start_date": "2026-08-27T10:00:00+02:00",
+    "end_date": "2026-08-27T13:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "fr",
+    "online": true,
+    "training": false,
+    "sold_out": true,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/fresque-de-la-biodiversite-en-ligne-2022?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=513845&margin=margin_small&color=no&ref=fresque-de-la-biodiversite-en-ligne-2022&cross_shop=17309&step=1&session=12514085",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser les participants aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nCet atelier aura lieu en ligne, en utilisant un outil de visioconf\u00e9rence (Zoom) et un outil de collaboration visuelle (MURAL). La participation \u00e0 cet atelier n\u00e9cessite donc un ordinateur avec micro.\nLes informations de connexion seront envoy\u00e9es par mail avant l'atelier.\n  La participation \u00e0 l'atelier est \u00e0 prix libre avec un minimum de 1\u20ac. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Le prix libre, ce n'est pas la gratuit\u00e9 syst\u00e9matique. C'est une estimation au plus juste entre vos possibilit\u00e9s, votre situation financi\u00e8re personnelle et la valorisation du temps, du travail et des comp\u00e9tences de la personne qui d\u00e9livre l'atelier ou la formation. C'est un principe de confiance et d'\u00e9quit\u00e9 qui nous permet aussi de construire un autre mod\u00e8le de soci\u00e9t\u00e9 plus juste et plus solidaire. Par cons\u00e9quent, merci d'envisager votre participation en toute conscience. \n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker + Prise en main de l'outil Mural\n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org",
+    "scrape_date": "2026-08-24T20:14:01.240295+02:00"
+}
+2026-08-24 18:14:01,241 - INFO - ------------------
+Processing event https://www.billetweb.fr/paris-75?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:04,155 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858776&margin=margin_small&color=no&ref=paris-75&cross_shop=17309&step=1&session=12611485 ...
+2026-08-24 18:14:04,156 - ERROR - get_address: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France).
+2026-08-24 18:14:04,156 - INFO - Rejecting record: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France)..
+2026-08-24 18:14:04,156 - INFO - ------------------
+Processing event https://www.billetweb.fr/gironde-33?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:08,222 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=857660&margin=margin_small&color=no&ref=gironde-33&cross_shop=17309&step=1&session=12682816 ...
+2026-08-24 18:14:08,223 - ERROR - get_address: Address "{'village': 'Rauzan', 'municipality': 'Libourne', 'county': 'Gironde', 'ISO3166-2-lvl6': 'FR-33', 'state': 'Nouvelle-Aquitaine', 'ISO3166-2-lvl4': 'FR-NAQ', 'region': 'France métropolitaine', 'postcode': '33420', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 13 Pl. du Champ de Foire, Rauzan, France).
+2026-08-24 18:14:08,223 - INFO - Rejecting record: Address "{'village': 'Rauzan', 'municipality': 'Libourne', 'county': 'Gironde', 'ISO3166-2-lvl6': 'FR-33', 'state': 'Nouvelle-Aquitaine', 'ISO3166-2-lvl4': 'FR-NAQ', 'region': 'France métropolitaine', 'postcode': '33420', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 13 Pl. du Champ de Foire, Rauzan, France)..
+2026-08-24 18:14:08,224 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=857660&margin=margin_small&color=no&ref=gironde-33&cross_shop=17309&step=1&session=12546270 ...
+2026-08-24 18:14:08,224 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:08,224 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-08-24 18:14:08,224 - INFO - ------------------
+Processing event https://www.billetweb.fr/le-et-vilaine-34?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:12,400 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12619704 ...
+2026-08-24 18:14:12,405 - INFO - Successfully scraped:
+{
+    "id": "2-le-et-vilaine-34?multi=17309-12619704",
+    "workshop_type": 2,
+    "title": "ILLE-ET-VILAINE (35) - RENNES",
+    "start_date": "2026-09-16T18:30:00+02:00",
+    "end_date": "2026-09-16T21:30:00+02:00",
+    "full_location": "45 Square Charles Dullin, Rennes, France",
+    "location_name": "",
+    "address": "45 Square Charles Dullin",
+    "city": "Rennes",
+    "department": "35",
+    "zip_code": "35200",
+    "country_code": "fr",
+    "latitude": "48.0923354",
+    "longitude": "-1.6807149",
+    "language_code": "fr",
+    "online": false,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.billetweb.fr/le-et-vilaine-34?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite",
+    "tickets_link": "https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12619704",
+    "description": "La Fresque de la Biodiversit\u00e9 est un atelier ludique et coop\u00e9ratif qui a pour but de sensibiliser le plus grand nombre aux enjeux de la Biodiversit\u00e9.\nAu cours de cet atelier, vous d\u00e9couvrirez le fonctionnement des \u00e9cosyst\u00e8mes, le r\u00f4le de la Biodiversit\u00e9 pour l'humanit\u00e9, les interactions avec les activit\u00e9s humaines et les menaces li\u00e9es \u00e0 son \u00e9rosion.\nLa participation \u00e0 l'atelier est \u00e0 prix libre et conscient, selon votre estimation de la valeur de l'atelier, du temps consacr\u00e9 pour son organisation et vos capacit\u00e9s financi\u00e8res. Les montants r\u00e9colt\u00e9s sont destin\u00e9s \u00e0 financer les outils de la Fresque, des actions de sensibilisation ainsi que le d\u00e9veloppement du r\u00e9seau de la Fresque de la Biodiversit\u00e9.\n  Dur\u00e9e 3h00\n15 min Pr\u00e9sentation du concept + Icebreaker \n30 min Ap\u00e9ro pour comprendre le m\u00e9canisme des \u00e9cosyst\u00e8mes \n75 min de Fresque de la Biodiversit\u00e9 et ses 5 lots de 40 cartes\n30 min de cr\u00e9ativit\u00e9 pour personnaliser et faire \u00e9merger des \u00e9motions\n30 min de restitution & d\u00e9brief & \u00e9change\n    Pour les collectivit\u00e9s territoriales un paiement par facture est possible, contactez : collectivites@fresquedelabiodiversite.org\n ",
+    "scrape_date": "2026-08-24T20:14:12.405160+02:00"
+}
+2026-08-24 18:14:12,406 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858373&margin=margin_small&color=no&ref=le-et-vilaine-34&cross_shop=17309&step=1&session=12546285 ...
+2026-08-24 18:14:12,406 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:12,406 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-08-24 18:14:12,406 - INFO - ------------------
+Processing event https://www.billetweb.fr/loire-atlantique-44?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:15,595 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858418&margin=margin_small&color=no&ref=loire-atlantique-44&cross_shop=17309&step=1&session=12547184 ...
+2026-08-24 18:14:15,596 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:15,596 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-08-24 18:14:15,596 - INFO - ------------------
+Processing event https://www.billetweb.fr/manche-50?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:18,427 - INFO - 
+-> Processing session 1/1 https://www.billetweb.fr/shop.php?event=858439&margin=margin_small&color=no&ref=manche-50&cross_shop=17309&step=1&session=12547256 ...
+2026-08-24 18:14:18,428 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:18,428 - INFO - Rejecting record: Date has a bad format, unhandled by TuF (input: Tue Dec 31, 2030).
+2026-08-24 18:14:18,428 - INFO - ------------------
+Processing event https://www.billetweb.fr/morbihan-56?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:22,420 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=858469&margin=margin_small&color=no&ref=morbihan-56&cross_shop=17309&step=1&session=12021786 ...
+2026-08-24 18:14:22,421 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-08-24 18:14:22,421 - INFO - Rejecting record: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann)..
+2026-08-24 18:14:22,421 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=858469&margin=margin_small&color=no&ref=morbihan-56&cross_shop=17309&step=1&session=12021787 ...
+2026-08-24 18:14:22,421 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-08-24 18:14:22,422 - INFO - Rejecting record: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann)..
+2026-08-24 18:14:22,422 - INFO - ------------------
+Processing event https://www.billetweb.fr/netherlands-biodiversity-collage-en?multi=17309&margin=no_margin&ref=17309&color=99ad23&parent=fresquedelabiodiversite
+2026-08-24 18:14:26,398 - INFO - 
+-> Processing session 1/2 https://www.billetweb.fr/shop.php?event=1221740&margin=margin_small&color=no&ref=netherlands-biodiversity-collage-en&cross_shop=17309&step=1&session=11995686 ...
+2026-08-24 18:14:26,399 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-08-24 18:14:26,399 - INFO - Rejecting record: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag)..
+2026-08-24 18:14:26,399 - INFO - 
+-> Processing session 2/2 https://www.billetweb.fr/shop.php?event=1221740&margin=margin_small&color=no&ref=netherlands-biodiversity-collage-en&cross_shop=17309&step=1&session=11995688 ...
+2026-08-24 18:14:26,400 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-08-24 18:14:26,400 - INFO - Rejecting record: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag)..
+2026-08-24 18:14:27,699 - INFO - Saved 632 geocode cache entries to .geocode_cache.json
+2026-08-24 18:14:28,603 - INFO - Scraping data from eventbrite (new template)
+2026-08-24 18:14:29,037 - INFO - Playwright stealth browser initialized successfully
+2026-08-24 18:14:29,226 - INFO - ==================
+Processing page {'name': 'Circular Economy Collage', 'url': 'https://www.eventbrite.fr/o/fresque-de-leconomie-circulaire-68155531313', 'type': 'scraper', 'id': 300}
+2026-08-24 18:14:34,203 - INFO - Extracted 7 links from __NEXT_DATA__ (total: 7, has_more: False)
+2026-08-24 18:14:34,207 - INFO - Total links collected: 7
+2026-08-24 18:14:34,207 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-in-helsinki-finland-tickets-1993140313331 ...
+2026-08-24 18:14:41,491 - ERROR - get_address: Address not found (input: Rikhardinkatu library).
+2026-08-24 18:14:41,492 - INFO - Rejecting record: Address not found (input: Rikhardinkatu library)..
+2026-08-24 18:14:41,492 - INFO - 
+-> Processing https://www.eventbrite.fr/e/entradas-mural-de-la-economia-circular-en-linea-1997807983458 ...
+2026-08-24 18:15:17,808 - INFO - Successfully scraped https://www.eventbrite.fr/e/entradas-mural-de-la-economia-circular-en-linea-1997807983458
+{
+    "id": "300-1997807983458",
+    "workshop_type": 300,
+    "title": "Mural de la Econom\u00eda Circular en l\u00ednea",
+    "start_date": "2026-08-27T14:00:00+02:00",
+    "end_date": "2026-08-27T17:00:00+02:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "es",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.eventbrite.fr/e/entradas-mural-de-la-economia-circular-en-linea-1997807983458",
+    "tickets_link": "https://www.eventbrite.fr/e/entradas-mural-de-la-economia-circular-en-linea-1997807983458",
+    "description": "Ven a descubrir el Mural de la Econom\u00eda Circular en l\u00ednea.",
+    "scrape_date": "2026-08-24T20:15:17.798220+02:00"
+}
+2026-08-24 18:15:17,808 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1993535947684 ...
+2026-08-24 18:15:23,515 - INFO - Rejecting record: sold out
+2026-08-24 18:15:23,515 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-in-dubai-united-arab-emirates-tickets-1993446599441 ...
+2026-08-24 18:15:29,475 - ERROR - get_address: Address not found (input: 107 Zeyaar St).
+2026-08-24 18:15:29,475 - INFO - Rejecting record: Address not found (input: 107 Zeyaar St)..
+2026-08-24 18:15:29,475 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987997913274 ...
+2026-08-24 18:15:35,946 - INFO - Rejecting record: sold out
+2026-08-24 18:15:35,946 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1995670919442 ...
+2026-08-24 18:16:12,609 - INFO - Successfully scraped https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1995670919442
+{
+    "id": "300-1995670919442",
+    "workshop_type": 300,
+    "title": "Circular Economy Collage online",
+    "start_date": "2026-10-26T17:00:00+01:00",
+    "end_date": "2026-10-26T20:00:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1995670919442",
+    "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1995670919442",
+    "description": "A fun and educational workshop using collective intelligence to explain the issues surrounding our use of natural resources.",
+    "scrape_date": "2026-08-24T20:16:12.609240+02:00"
+}
+2026-08-24 18:16:12,610 - INFO - 
+-> Processing https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233 ...
+2026-08-24 18:16:48,001 - INFO - Successfully scraped https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233
+{
+    "id": "300-1987998568233",
+    "workshop_type": 300,
+    "title": "Circular Economy Collage online",
+    "start_date": "2026-11-30T13:00:00+01:00",
+    "end_date": "2026-11-30T16:00:00+01:00",
+    "full_location": "",
+    "location_name": "",
+    "address": "",
+    "city": "",
+    "department": "",
+    "zip_code": "",
+    "country_code": "",
+    "latitude": "",
+    "longitude": "",
+    "language_code": "en",
+    "online": true,
+    "training": false,
+    "sold_out": false,
+    "kids": false,
+    "source_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233",
+    "tickets_link": "https://www.eventbrite.fr/e/circular-economy-collage-online-tickets-1987998568233",
+    "description": "A fun and educational workshop using collective intelligence to explain the issues surrounding our use of natural resources.",
+    "scrape_date": "2026-08-24T20:16:48.000887+02:00"
+}
+2026-08-24 18:16:48,104 - INFO - Browser closed successfully
+2026-08-24 18:16:48,132 - INFO - Saved 632 geocode cache entries to .geocode_cache.json

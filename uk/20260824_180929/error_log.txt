@@ -1,0 +1,15 @@
+2026-08-24 18:13:37,546 - ERROR - get_address: Address not found (input: So Watt ! Tiers-lieu, 35-37 Avenue du Maréchal de Lattre de Tassigny, Saint-André-l).
+2026-08-24 18:13:55,593 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:13:58,462 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:04,156 - ERROR - get_address: Address "{'shop': 'librairie Utopia', 'house_number': '1', 'locality': 'Rue Frédéric Sauton', 'city_block': 'Quartier Saint-Victor', 'suburb': 'Paris 5e Arrondissement', 'city_district': 'Paris', 'city': 'Paris', 'ISO3166-2-lvl6': 'FR-75C', 'state': 'Île-de-France', 'ISO3166-2-lvl4': 'FR-IDF', 'region': 'France métropolitaine', 'postcode': '75005', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: Librairie Utopia, 1 Rue Frédéric Sauton, Paris, France).
+2026-08-24 18:14:08,223 - ERROR - get_address: Address "{'village': 'Rauzan', 'municipality': 'Libourne', 'county': 'Gironde', 'ISO3166-2-lvl6': 'FR-33', 'state': 'Nouvelle-Aquitaine', 'ISO3166-2-lvl4': 'FR-NAQ', 'region': 'France métropolitaine', 'postcode': '33420', 'country': 'France', 'country_code': 'fr'}" has a bad road format, unhandled by TuF (input: 13 Pl. du Champ de Foire, Rauzan, France).
+2026-08-24 18:14:08,224 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:12,406 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:15,596 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:18,428 - ERROR - get_dates: Tue Dec 31, 2030
+2026-08-24 18:14:22,421 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-08-24 18:14:22,421 - ERROR - get_address: Address not found (input: Le Prisme, Pépinière d'Entreprises du Pays de Vannes, 4 Place Albert Einstein, Vann).
+2026-08-24 18:14:26,399 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-08-24 18:14:26,400 - ERROR - get_address: Address "{'amenity': 'Centrale Bibliotheek', 'house_number': '68', 'road': 'Spui', 'neighbourhood': 'Museumkwartier', 'suburb': 'Centrum', 'city': 'Den Haag', 'municipality': 'Den Haag', 'state': 'Zuid-Holland', 'ISO3166-2-lvl4': 'NL-ZH', 'country': 'Nederland', 'postcode': '2511 BT', 'country_code': 'nl'}" is not located in a supported country (input: Centrale Bibliotheek Den Haag, Spui 68, Den Haag).
+2026-08-24 18:14:41,491 - ERROR - get_address: Address not found (input: Rikhardinkatu library).
+2026-08-24 18:15:29,475 - ERROR - get_address: Address not found (input: 107 Zeyaar St).
